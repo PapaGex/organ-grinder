@@ -52,7 +52,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v14.15.0-win-x64/node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="io.snyk.plugin.settings.SnykProjectSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +65,10 @@
       <updated>1638761997408</updated>
       <workItem from="1638761998526" duration="3523000" />
       <workItem from="1638766255106" duration="121000" />
-      <workItem from="1638767203418" duration="1504000" />
+      <workItem from="1638767203418" duration="2699000" />
+      <workItem from="1638951683574" duration="691000" />
+      <workItem from="1639104328832" duration="8639000" />
+      <workItem from="1639204254446" duration="3439000" />
     </task>
     <servers />
   </component>
@@ -85,5 +88,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
